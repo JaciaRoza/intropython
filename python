@@ -1,0 +1,12 @@
+'''
+Name: Jacia Roza
+Start date: 1/31/24
+End date: 1/31/24
+Description: The program is teach us how to use the print Command
+'''
+
+print("Hello I am using Eclipse Python");
+print("When I include a next line character \n");
+print("my output display will go to the next line.");
+print("If not, it will go and on and on like a run on"
+      "sentence");
